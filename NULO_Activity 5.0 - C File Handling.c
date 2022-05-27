@@ -18,7 +18,7 @@ int main ()
       printf(" Error in opening file!");
       exit(1);
    }
-    printf(" Input the number of lines to be written : ");
+    printf(" Input how many lines to be appended : ");
     scanf("%d", &n);
 
     printf(" The lines are : \n");
