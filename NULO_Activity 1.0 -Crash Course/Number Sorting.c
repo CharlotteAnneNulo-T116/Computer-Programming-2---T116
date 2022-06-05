@@ -8,7 +8,7 @@ void main ()
         for (i = 0; i < 10; ++i)
         {
           int temp;
-          printf("[%d] Input the numbers: ",i+1);
+          printf("[%d] Input number: ",i+1);
           scanf("%d", &temp);
         if(temp>0){
             number[i] = temp;
