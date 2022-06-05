@@ -32,7 +32,7 @@ int main()
         }
     }
     printf("Minimum Number: %d\n", min);
-    printf("Maxinum Number: %d", max);
+    printf("Maximum Number: %d", max);
 
     return 0;
 }
